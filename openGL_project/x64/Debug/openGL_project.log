@@ -1,0 +1,17 @@
+﻿  main.cpp
+D:\FileCatalogue\VS2022\openGL_project\learnopengl\shader.h(56,40): warning C4101: “e”: 未引用的局部变量
+D:\FileCatalogue\VS2022\openGL_project\learnopengl\mesh.h(90,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(258,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(296,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(297,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(298,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(393,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(430,27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(538,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(539,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(543,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(544,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(546,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(547,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\FileCatalogue\VS2022\openGL_project\main.cpp(556,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  openGL_project.vcxproj -> D:\FileCatalogue\VS2022\openGL_project\x64\Debug\openGL_project.exe
